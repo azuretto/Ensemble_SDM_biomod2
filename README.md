@@ -1,2 +1,2 @@
 # Ensemble_SDM_biomod2
-Code repository for Ecological Informatics
+Code repository for the ensemble SDMs manuscript. 
